@@ -1,5 +1,4 @@
 Trends in Security and Privacy Academic Research in Japan
-
 ====
 
 Overview
