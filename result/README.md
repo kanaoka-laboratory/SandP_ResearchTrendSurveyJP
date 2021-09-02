@@ -53,4 +53,4 @@ CSS/SCIS論文に基づく日本のセキュリティ系研究の推移調査
 - [頻出語](/result/frequent.md) 
 - [多次元尺度構成法](/result/MDS.md) 
 - [階層的クラスター分析](/result/HCA.md) 
-- [共起ネットワーク](/result/CON.md) 
+- [共起ネットワーク](/result/CONresult.md) 
