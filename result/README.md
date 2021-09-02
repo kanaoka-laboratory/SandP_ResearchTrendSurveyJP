@@ -27,6 +27,30 @@ CSS/SCIS論文に基づく日本のセキュリティ系研究の推移調査
 ## イベントごとの結果詳細
 - CSS
 	- [CSS2011](/result/css2011.md)
+	- [CSS2012](/result/css2012.md)
+	- [CSS2013](/result/css2013.md)
+	- [CSS2014](/result/css2014.md)
+	- [CSS2015](/result/css2015.md)
+	- [CSS2016](/result/css2016.md)
+	- [CSS2017](/result/css2017.md)
+	- [CSS2018](/result/css2018.md)
+	- [CSS2019](/result/css2019.md)
+	- [CSS2020](/result/css2020.md)
+- SCIS
+	- [SCIS2012](/result/scis2012.md)
+	- [SCIS2013](/result/scis2013.md)
+	- [SCIS2014](/result/scis2014.md)
+	- [SCIS2015](/result/scis2015.md)
+	- [SCIS2016](/result/scis2016.md)
+	- [SCIS2017](/result/scis2017.md)
+	- [SCIS2018](/result/scis2018.md)
+	- [SCIS2019](/result/scis2019.md)
+	- [SCIS2020](/result/scis2020.md)
+	- [SCIS2021](/result/scis2021.md)
 
 
 ## 分析種類ごとの結果詳細
+- [頻出語](/result/frequent.md) 
+- [多次元尺度構成法](/result/MDS.md) 
+- [階層的クラスター分析](/result/HCA.md) 
+- [共起ネットワーク](/result/CON.md) 
